@@ -3,4 +3,4 @@ gitを学ぶ
 ・git add
 ・git commit
 ・git push
-
+・git diff
